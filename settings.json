@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 100,
+      "repeat-delay": 60,
       "messages": [
         "@ledixbeek kanaliga obuna bo'lishni unutmang. Agar obuna bo'lsangiz telegramdan @VIPggHub lichkasiga skrinshotini tashlasangiz sizga KING kiti berilishi mumkin."
       ]
