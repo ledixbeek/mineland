@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "MINELAND_POLICE",
+    "username": "MINELAND_ADMIN",
     "password": "",
     "type": "offline"
   },
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 100,
       "messages": [
-        "Chatda so'kinmang yoki police bot sizni 1 oylik banga tiqishi mumkin. Ehtiyot bo'ling."
+        "@ledixbeek kanaliga obuna bo'lishni unutmang. Agar obuna bo'lsangiz telegramdan @VIPggHub lichkasiga skrinshotini tashlasangiz sizga KING kiti berilishi mumkin."
       ]
     },
     "chat-log": true,
